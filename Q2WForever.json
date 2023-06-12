@@ -1,4 +1,4 @@
-// update time: 2023.06.11 20:49:16
+// update time: 2023.06.12 10:10:25
     {
     "wallpaper": "https://xhdwc.tk/api/img.php",
     "spider":"https://henryqinup.github.io/JK/HenryQin.jar;md5;f29e9bc19d40c5d4cbb271ec41172c74",
@@ -93,6 +93,7 @@
             "name": "七七",
             "type": 3,
             "api": "csp_Kunyu77",
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -218,7 +219,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.6080yy2.com/"
+            "ext": "https://www.6080yy3.com/"
         },
         {
             "key": "Dm84",
