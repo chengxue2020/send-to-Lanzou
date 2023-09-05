@@ -1,4 +1,4 @@
-// update time: 2023.09.04 20:50:31
+// update time: 2023.09.05 09:30:05
     {
     "wallpaper": "https://xhdwc.tk/api/img.php",
     "spider":"https://henryqinup.github.io/JK/HenryQin.jar;md5;a62fec72bf4f675ddc1e19dfc09687cd",
@@ -87,17 +87,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key":"Moguys",
-            "name":"Moguys",
-            "type":3,
-            "api":"csp_AppYsV2",
-            "playerType":1,
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "changeable":1, 
-            "ext": "http://11111111.moguys.xyz/api.php/app/"
         },
         {
             "key": "暴风",
